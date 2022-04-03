@@ -7,10 +7,7 @@ The whole project is designed in ‘C’ language and different variables and st
 This mini project is easy to operate and understand by the users. There is no any error and warning contents in the project. The design is so simple that user should not find it difficult to use and navigate.
 
 
-Feature
-Easy To Book Seats.
-Easy To Cancel Bookings.
-Displays Detailed Booked Seats.
+
 
 	                   
 
